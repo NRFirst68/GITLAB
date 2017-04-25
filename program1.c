@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main (){
-printf ("Hello world");
+printf ("Hello world from A");
 printf ("program1");
 
 printf ("edit program1");
